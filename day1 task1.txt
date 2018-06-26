@@ -1,0 +1,27 @@
+REACTJS
+
+ReactJS is an open-source JavaScript library which is used for building user interfaces specifically for single page applications. 
+It is used for handling view layer for web and mobile apps.
+React allows developers to create large web applications which can change data, without reloading the page.
+The main purpose of React is to be fast, scalable, and simple.
+It works only on user interfaces in application.
+It is a cross platform softwware. (platform independent software)
+
+a) ReactJS Features
+	1.JSX
+	In React, instead of using regular JavaScript for templating, it uses JSX.
+	JSX is simple JavaScript which allows HTML quoting and uses these HTML tag syntax to render subcomponents.
+	HTML syntax is processed into JavaScript calls of React Framework.
+
+	2.React Native
+	React has native libraries which were announced by Facebook in 2015, which provides the react architecture to native applications like IOS, Android
+
+	3.Virtual Document Object Model
+	React creates an in-memory data structure cache which computes the changes made and then updates the browser. 
+
+b)Why React Js?
+	1.Simplicity
+	2.Easy to learn
+	3.Data Binding
+	4.Native Approach
+	React can be used to create mobile applications (React Native). 
